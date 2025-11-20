@@ -38,7 +38,7 @@ editor: visual
 <br>
 :::
 
-Alle Termine finden **online** via **Zoom** statt. Der Link wird rechtzeitig vor dem jeweiligen Termin bereitgestellt. Nach jedem Termin wird es ein Problem Set (Hausaufgabe) geben, das bis zum nächsten Termin bearbeitet werden muss. Die Abgabe der Hausaufgaben ist Voraussetzung für die Bescheinigung der Kursteilnahme.
+Alle Termine finden **online** via **Zoom** statt. Der Link wird rechtzeitig vor dem jeweiligen Termin bereitgestellt. Nach jedem Termin wird es ein Problem Set geben, das bis zum nächsten Termin bearbeitet werden kann.
 
 ## (Vorläufige) Themenliste
 
