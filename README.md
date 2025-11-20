@@ -1,1 +1,1 @@
-# GDSR_1
+# Reporistory zum Kurs Grundlagen der Datenanalyse und Statistik in R
